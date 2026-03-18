@@ -73,6 +73,10 @@ function getMenuSections() {
           title: `${settings.prefix}ping`,
           description: 'Cek kecepatan respon bot',
         },
+        {
+          title: `${settings.prefix}vps`,
+          description: 'Lihat spesifikasi VPS/server (owner only)',
+        },
       ],
     },
   ]
